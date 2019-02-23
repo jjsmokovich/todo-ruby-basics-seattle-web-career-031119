@@ -14,12 +14,12 @@ def greeting(hello, goodbye)
 
 end
 
-def return_a_value
-
+def return_a_value(nice)
+  nice  
 end
 
 def last_evaluated_value
-
+  
 end
 
 def pizza_party
