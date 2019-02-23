@@ -10,7 +10,7 @@ def argue(yell)
   yell
 end
 
-def greeting
+def greeting(hello, goodbye)
 
 end
 
