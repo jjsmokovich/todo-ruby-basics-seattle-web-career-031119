@@ -14,7 +14,7 @@ def greeting(hello, goodbye)
 
 end
 
-def return_a_value(Nice)
+def return_a_value("Nice")
   Nice  
 end
 
